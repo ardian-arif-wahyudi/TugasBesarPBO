@@ -1,5 +1,7 @@
 // Nama : Ardian Arif Wahyudi
 // NIM  : 32602000069
+
+package menghitungBMI;
 import javax.swing.text.*;
 import javax.swing.*;
 import java.awt.event.*;
