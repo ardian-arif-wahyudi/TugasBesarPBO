@@ -1,4 +1,6 @@
-TugasBesarPBO
+Tugas Besar PBO
+
+Tersedia 2 Versi .jar dan .exe
 
 2 Aplikasi
 1. Menghitung Indeks BMI
